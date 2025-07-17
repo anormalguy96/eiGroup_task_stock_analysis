@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.idea/
+stock_analysis/__pycache__/
