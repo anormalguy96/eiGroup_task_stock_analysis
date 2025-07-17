@@ -1,0 +1,1 @@
+# eiGroup_task_stock_analysis
